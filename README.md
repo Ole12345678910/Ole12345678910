@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ole12345678910
 - 👀 I’m interested in Gaming.
-- 🌱 I’m currently frontend development.
+- 🌱 I’m currently learing front-end development.
 - ⚡ Fun fact: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
